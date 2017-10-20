@@ -1,0 +1,218 @@
+{
+	"name": "report-on-topic-modeling-interfaces",
+	"title": "Report on Topic Modeling Interfaces",
+	"resources": [{
+			"path": "report-on-topic-modeling-interfaces.md"
+		},
+		{
+			"path": "assets/ConVisIT.jpg"
+		},
+		{
+			"path": "assets/dfr-browser-1.jpg"
+		},
+		{
+			"path": "assets/dfr-browser-2.jpg"
+		},
+		{
+			"path": "assets/networked-corpus.jpg"
+		},
+		{
+			"path": "assets/serendip.jpg"
+		},
+		{
+			"path": "assets/tiara.jpg"
+		},
+		{
+			"path": "assets/tom.jpg"
+		},
+		{
+			"path": "assets/tome-1.jpg"
+		},
+		{
+			"path": "assets/tome-2.jpg"
+		},
+		{
+			"path": "assets/topic-browser-1.jpg"
+		},
+		{
+			"path": "assets/topic-browser-2.jpg"
+		},
+		{
+			"path": "assets/topic-nets-1.jpg"
+		},
+		{
+			"path": "assets/topic-nets-2.jpg"
+		},
+		{
+			"path": "assets/inpho.jpg"
+		},
+		{
+			"path": "assets/topical-guide-1-topic-view.jpg"
+		},
+		{
+			"path": "assets/topical-guide-2-document-view.jpg"
+		},
+		{
+			"path": "assets/topical-guide-3-viz-2d-view.jpg"
+		},
+		{
+			"path": "assets/topical-guide-4-viz-chord-view.jpg"
+		},
+		{
+			"path": "assets/topical-guide-5-viz-topics-over-time-view.jpg"
+		},
+		{
+			"path": "assets/termite-1.jpg"
+		},
+		{
+			"path": "assets/termite-2-term-frequency-vs-saliency-comparison.jpg"
+		},
+		{
+			"path": "assets/termite-2-term-frequency-vs-seriation-comparison.jpg"
+		},
+		{
+			"path": "assets/serendip-3-aggregated-data.jpg"
+		},
+		{
+			"path": "assets/serendip-4-term-distribution-and-metadata.jpg"
+		},
+		{
+			"path": "assets/serendip-5-topic-words-in-text.jpg"
+		},
+		{
+			"path": "assets/serendip-6-rank-viewer.jpg"
+		},
+		{
+			"path": "assets/NetworkedCorpus1.PNG"
+		},
+		{
+			"path": "assets/NetworkedCorpus2.PNG"
+		},
+		{
+			"path": "assets/NetworkedCorpus2.PNG"
+		},
+		{
+			"path": "assets/twic-1-bullseye.png"
+		},
+		{
+			"path": "assets/twic-2-rectangle.png"
+		},
+		{
+			"path": "assets/twic-3-corpus-cluster.png"
+		},
+		{
+			"path": "assets/twic-4-text-cluster.png"
+		},
+		{
+			"path": "assets/twic-5-individual-text.png"
+		},
+		{
+			"path": "assets/ConVisIT-th.jpg"
+		},
+		{
+			"path": "assets/dfr-browser-1-th.jpg"
+		},
+		{
+			"path": "assets/dfr-browser-2-th.jpg"
+		},
+		{
+			"path": "assets/networked-corpus-th.jpg"
+		},
+		{
+			"path": "assets/serendip-th.jpg"
+		},
+		{
+			"path": "assets/inpho-th.jpg"
+		},
+		{
+			"path": "assets/NetworkedCorpus1.PNG"
+		},
+		{
+			"path": "assets/NetworkedCorpus2.PNG"
+		},
+		{
+			"path": "assets/pyLDAvis1.png"
+		},
+		{
+			"path": "assets/pyLDAvis2.png"
+		},
+		{
+			"path": "assets/serendip-3-aggregated-data-th.jpg"
+		},
+		{
+			"path": "assets/serendip-4-term-distribution-and-metadata-th.jpg"
+		},
+		{
+			"path": "assets/serendip-5-topic-words-in-text-th.jpg"
+		},
+		{
+			"path": "assets/serendip-6-rank-viewer-th.jpg"
+		},
+		{
+			"path": "assets/termite-1-th.jpg"
+		},
+		{
+			"path": "assets/termite-2-term-frequency-vs-saliency-comparison-th.jpg"
+		},
+		{
+			"path": "assets/termite-2-term-frequency-vs-seriation-comparison-th.jpg"
+		},
+		{
+			"path": "assets/tiara-th.jpg"
+		},
+		{
+			"path": "assets/tome-1-th.jpg"
+		},
+		{
+			"path": "assets/tome-2-th.jpg"
+		},
+		{
+			"path": "assets/tom-th.jpg"
+		},
+		{
+			"path": "assets/topical-guide-1-topic-view-th.jpg"
+		},
+		{
+			"path": "assets/topical-guide-2-document-view-th.jpg"
+		},
+		{
+			"path": "assets/topical-guide-3-viz-2d-view-th.jpg"
+		},
+		{
+			"path": "assets/topical-guide-4-viz-chord-view-th.jpg"
+		},
+		{
+			"path": "assets/topical-guide-5-viz-topics-over-time-view-th.jpg"
+		},
+		{
+			"path": "assets/topic-browser-1-th.jpg"
+		},
+		{
+			"path": "assets/topic-browser-2-th.jpg"
+		},
+		{
+			"path": "assets/topic-nets-1-th.jpg"
+		},
+		{
+			"path": "assets/topic-nets-2-th.jpg"
+		},
+		{
+			"path": "assets/twic-2-rectangle.png"
+		},
+		{
+			"path": "assets/twic-3-corpus-cluster.png"
+		},
+		{
+			"path": "assets/twic-3-corpus-cluster-th.png"
+		},
+		{
+			"path": "assets/twic-4-text-cluster.png"
+		},
+		{
+			"path": "assets/twic-5-individual-text.png"
+		},
+		{
+			"path": "assets/twic-5-individual-text-th.png"
+		}
+	]
+}
