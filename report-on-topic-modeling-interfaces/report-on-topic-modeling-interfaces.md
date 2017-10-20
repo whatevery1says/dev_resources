@@ -197,7 +197,7 @@ Unfortunately, after getting that right I am getting another Unicode error that 
 
 ## <a name="serendip">Serendip</a>
 
-_Note: Parts of the descriptions and screenshots in the mini-report on Serendip here are excerpted from Scott Kleinman's [report-on-serendip.pdf](https://raw.githubusercontent.com/whatevery1says/dev_resources/master/report-on-topic-modeling-interfaces/assets/report-on-serendip.pdf). Other descriptions and one screenshot are based on the Eric Alexander et al. article._
+_Note: Parts of the descriptions and screenshots in the mini-report on Serendip here are excerpted from Scott Kleinman's [report-on-serendip.pdf](https://raw.githubusercontent.com/whatevery1says/dev_resources/master/report-on-topic-modeling-interfaces/assets/pdf/report-on-serendip.pdf). Other descriptions and one screenshot are based on the Eric Alexander et al. article._
 
 * **Description**: Eric Alexander, et al. (2014), ["Serendip: Topic Model-Driven Visual Exploration of Text Corpora"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiti_zIh7TKAhUBTGMKHTi_At0QFggiMAE&url=https%3A%2F%2Fgraphics.cs.wisc.edu%2FPapers%2F2014%2FAKVWG14%2FPreprint.pdf&usg=AFQjCNG-VY5ModzUaOQo8TrvVefKg50a5w&sig2=d-jzuGMxh9yFNjkrud5ghw) (preprint)
   * See also the [Project iPython notebook site](http://vep.cs.wisc.edu/serendip/).
@@ -213,7 +213,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
   * Information Gain (the information words gain towards identifying a given topic) -- biased towards rare words that best distinguish topics
   * Saliency (frequency multiplied by information gain) -- finds salient words across an entire model, not just within a topic. Saliency is the default ranking metric.
 * **Code site**: [Project iPython notebook site with download and use instructions](http://vep.cs.wisc.edu/serendip/). (Python 2.7)
-* _Scott Kleinman's_ [report-on-serendip.pdf](https://raw.githubusercontent.com/whatevery1says/dev_resources/master/report-on-topic-modeling-interfaces/assets/report-on-serendip.pdf)
+* _Scott Kleinman's_ [report-on-serendip.pdf](https://github.com/whatevery1says/dev_resources/raw/master/report-on-topic-modeling-interfaces/assets/report-on-serendip.pdf)
 * _Scott Kleinman's_ [Instructions for implementing Serendip](https://github.com/scottkleinman/WE1S/tree/master/serendip)
 
 ## Screen Shots
