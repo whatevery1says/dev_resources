@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/packed-m-prod-v07998121.css" />
+
+  
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/ie6-m-prod-v85351277.css" /><![endif]-->
+      
+      
+  
+  
+        	<title>4humwhatevery1says [licensed for non-commercial use only] / File Not Found</title>
+</head>
+<body id="body" class="login admin has-ws-nav python"><!-- network bar -->
+<div id="network-bar" class="network-bar clearfix standalone">
+  <ul id="network-bar-breadcrumbs">
+        <li class="last" id="network-crumb-wiki"><a href="/" id="network-crumb-wiki-link">4humwhatevery1says</a></li>
+  </ul>
+
+      <!-- user bar -->
+    <div id="user-bar" class="user-bar "><div class="user-bar-left"><div class="user-bar-right"><p><a href="http://4humwhatevery1says.pbworks.com/w/session/login">log in</a><a id="network-bar-help" class="network-bar-help" href="mailto:support@pbworks.com">help</a></p></div></div></div>
+  
+  
+      <div id="network-bar-signup" class="network-bar-section">
+      <span class="iconbutton upgrade">
+        <a class="network-bar-signup-link" href="https://plans.pbworks.com/signup/edubasic20?utm_campaign=mcgetyourown&utm_source=edu" class="iconbutton upgrade">Get a free wiki</a>
+        &nbsp;|&nbsp;
+        <a class="network-bar-signup-link" href="http://pbworks.com/signup?utm_campaign=freebiz&utm_source=personal" class="iconbutton upgrade">Try our free business product</a>
+      </span>
+    </div>
+  
+</div>
+
+    <div id="ws-nav" class="chrome-content">
+          <ul class="nav-tabs active-tab-true">
+        <li id="ws-nav-wiki"><a href="http://4humwhatevery1says.pbworks.com/w/page/71066320/FrontPage">Wiki</a></li><li id="ws-nav-browse" class="last"><a href="http://4humwhatevery1says.pbworks.com/w/browse/">Pages &amp; Files</a></li>      </ul>
+    
+    <div id="ws-nav-search">
+      <input type="text" placeholder="Search this workspace" class="inputtext text" name="SearchFor" id="input-search"  tabindex="1" title="Search" autocomplete="off"/>
+    </div>
+  </div>
+<table id="container">
+  <tr>
+    <td id="main-content">
+      <div class="content">
+
+<div class="workspace-panel-outer" style="width: 100%" >
+  <div class="workspace-panel-inner" style="width: 624px;">
+
+  <div id="workspace-panel-main">
+    <h2>File Not Found</h2>
+    <p>There is no file called <strong>http://4humwhatevery1says.pbworks.com/f/w/file/fetch/104953020/topical-guide-5-viz-topics-over-time-view.jpg</strong> on this workspace.</p>
+    <form action="/">
+      <input type="submit" value="Go home" />
+    </form>
+  </div>
+
+
+  </div>
+  <div id="page-footer">
+    <div class="content">
+      <div id="footer-logo" ><a href="http://pbworks.com/?utm_campaign=wiki-link" title=""></a></div>
+
+<div id="footer-pbwiki">
+  <p>
+    <strong><a href="https://pbworks.com/?utm_campaign=wiki-link">PBworks</a> </strong> / <a target="_new" href="mailto:support@pbworks.com">Help</a><br/>
+    <a href="http://pbworks.com/content/termsofservice?utm_campaign=wiki-link">Terms of use</a> / <a href="http://pbworks.com/content/privacypolicy?utm_campaign=wiki-link">Privacy policy</a>
+  </p>
+</div>
+<div id="footer-about">
+  <p>
+        <strong>About this workspace</strong>
+            <br/>
+    <a href="/w/contact-owner">Contact the owner</a> /         <a href="/rss.xml">RSS feed</a> /     This workspace is <strong>public</strong>
+  </p>
+</div>
+    </div>
+  </div>
+</div>
+      <script>
+  PBinfo = {"BuildTime":1428690245,"SessionEnds":0,"CurrentPage":{"is_dev":false,"sessCookie":"ds3","requesttime":1508469302,"page":false,"editor_v3":true},"GetRecentWikis":{"wikis":null,"total_wiki_count":null},"CurrentWiki":{"front_page":"FrontPage","isPublic":true,"is_archived":false,"debug":false,"usercount":17,"filecount":420,"pagecount":142,"foldercount":56,"name":"4humwhatevery1says","title":"4humwhatevery1says","cat":"edu","readonly":null,"comments_disabled":null,"comments_newest_first":null,"network_groups":[],"requestaccess":true},"CheckPermissions":{"uid":false,"personal_wiki":false},"GetFeatures":{"fliqz_upsell":true,"classroom_accounts":true},"GetUserPrefs":{"sidebar":{"folders":[],"sidebar":[],"addusers":[],"recentactivity":[]},"sidebar_collapsed":false},"GetTimes":{"_valid_as_of":1508469302,"commenttime":1506914039,"filetime":1507310354,"foldertime":1507408142,"page_list_time":1507672977,"pagetime":1508258326,"permtime":1506914341,"tagtime":1497684341,"_args":{"op":"GetTimes"}}};
+</script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/libraries-v78145716.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/packed-v65464171.js"></script>
+<!--[if lte IE 6]>
+  <script type="text/javascript">function ie6minwidth(){var size = (document.documentElement.clientWidth<960 ? '960px' : '100%'); $(document.body).setStyle({'width':size});} document.observe("dom:loaded", ie6minwidth); Event.observe(window, 'resize', ie6minwidth); 
+</script>
+<![endif]-->
+    </body>
+</html>
