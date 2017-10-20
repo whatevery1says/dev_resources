@@ -43,7 +43,7 @@ Last revised November 12, 2016.
 
 ### Screen Shots
 
-[![ConVisIT](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454822801/ConVisIT-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940468/ConVisIT.jpg)
+[![ConVisIT](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/ConVisIT-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsConVisIT.jpg)
 
 ***
 
@@ -70,7 +70,7 @@ Last revised November 12, 2016.
 
 ### Screen Shots
 
-[![DFR-Browser, multiple topics view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454822812/dfr-browser-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940474/dfr-browser-1.jpg)[![DFR-Browser, single topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454822813/dfr-browser-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940480/dfr-browser-2.jpg)
+[![DFR-Browser, multiple topics view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/dfr-browser-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/dfr-browser-1.jpg)[![DFR-Browser, single topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/dfr-browser-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/dfr-browser-2.jpg)
 
 ***
 
@@ -96,7 +96,7 @@ Last revised November 12, 2016.
 
 ### Screen Shots
 
-[![InPhO](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454823924/inpho-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940711/inpho.jpg)
+[![InPhO](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/inpho-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/inpho.jpg)
 
 ***
 
@@ -166,10 +166,10 @@ Unfortunately, after getting that right I am getting another Unicode error that 
 
 ### Screen Shots
 
-[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454822821/networked-corpus-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940486/networked-corpus.jpg)
-[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1455229070/NetworkedCorpus1.PNG)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/105097671/NetworkedCorpus1.PNG)
-[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1455229070/NetworkedCorpus2.PNG)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/105097674/NetworkedCorpus2.PNG)
-[Click for a readable image](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/105097674/NetworkedCorpus2.PNG)
+[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/networked-corpus-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsnetworked-corpus.jpg)
+[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/NetworkedCorpus1.PNG)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsNetworkedCorpus1.PNG)
+[![Networked Corpus](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/NetworkedCorpus2.PNG)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsNetworkedCorpus2.PNG)
+[Click for a readable image](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsNetworkedCorpus2.PNG)
 
 ***
 
@@ -190,14 +190,14 @@ Unfortunately, after getting that right I am getting another Unicode error that 
 
 ### Screen Shots
 
-[![pyLDAvis](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1459712760/pyLDAvis1.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/106758792/pyLDAvis1.png)
-[![pyLDAvis](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1459712811/pyLDAvis2.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/106758792/pyLDAvis2.png)
+[![pyLDAvis](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/pyLDAvis1.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/106758792/pyLDAvis1.png)
+[![pyLDAvis](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/pyLDAvis2.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/106758792/pyLDAvis2.png)
 
 ***
 
 ## <a name="serendip">Serendip</a>
 
-_Note: Parts of the descriptions and screenshots in the mini-report on Serendip here are excerpted from Scott Kleinman's [report-on-serendip.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104432563/report-on-serendip.pdf). Other descriptions and one screenshot are based on the Eric Alexander et al. article._
+_Note: Parts of the descriptions and screenshots in the mini-report on Serendip here are excerpted from Scott Kleinman's [report-on-serendip.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsreport-on-serendip.pdf). Other descriptions and one screenshot are based on the Eric Alexander et al. article._
 
 * **Description**: Eric Alexander, et al. (2014), ["Serendip: Topic Model-Driven Visual Exploration of Text Corpora"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiti_zIh7TKAhUBTGMKHTi_At0QFggiMAE&url=https%3A%2F%2Fgraphics.cs.wisc.edu%2FPapers%2F2014%2FAKVWG14%2FPreprint.pdf&usg=AFQjCNG-VY5ModzUaOQo8TrvVefKg50a5w&sig2=d-jzuGMxh9yFNjkrud5ghw) (preprint)
   * See also the [Project iPython notebook site](http://vep.cs.wisc.edu/serendip/).
@@ -213,12 +213,12 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
   * Information Gain (the information words gain towards identifying a given topic) -- biased towards rare words that best distinguish topics
   * Saliency (frequency multiplied by information gain) -- finds salient words across an entire model, not just within a topic. Saliency is the default ranking metric.
 * **Code site**: [Project iPython notebook site with download and use instructions](http://vep.cs.wisc.edu/serendip/). (Python 2.7)
-* _Scott Kleinman's_ [report-on-serendip.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104432563/report-on-serendip.pdf)
+* _Scott Kleinman's_ [report-on-serendip.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsreport-on-serendip.pdf)
 * _Scott Kleinman's_ [Instructions for implementing Serendip](https://github.com/scottkleinman/WE1S/tree/master/serendip)
 
 ## Screen Shots
 
-[![Serendip - three main views](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/1454822831/serendip-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940492/serendip.jpg)[![Serendip - aggregated data](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-3-aggregated-data-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104955906/serendip-3-aggregated-data.jpg)[![Serendip - term distibution & metadata views](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-4-term-distribution-and-metadata-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104955915/serendip-4-term-distribution-and-metadata.jpg)[![Serendip - topic words in text view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-5-topic-words-in-text-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104955921/serendip-5-topic-words-in-text.jpg)[![Serendip - rank viewer](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-6-rank-viewer-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104955927/serendip-6-rank-viewer.jpg)
+[![Serendip - three main views](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsserendip.jpg)[![Serendip - aggregated data](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-3-aggregated-data-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsserendip-3-aggregated-data.jpg)[![Serendip - term distibution & metadata views](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-4-term-distribution-and-metadata-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsserendip-4-term-distribution-and-metadata.jpg)[![Serendip - topic words in text view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-5-topic-words-in-text-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsserendip-5-topic-words-in-text.jpg)[![Serendip - rank viewer](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/serendip-6-rank-viewer-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsserendip-6-rank-viewer.jpg)
 
 ***
 
@@ -247,7 +247,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![Termite - word frequency per topic](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104953875/termite-1.jpg)[![Termite - comparison of term frequency vs. saliency rankings for topics](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-2-term-frequency-vs-saliency-comparison-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104954397/termite-2-term-frequency-vs-saliency-comparison.jpg)[![Termite - comparison of term frequency vs. seriation rankings for topics](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-2-term-frequency-vs-seriation-comparison-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104954727/termite-2-term-frequency-vs-seriation-comparison.jpg)
+[![Termite - word frequency per topic](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstermite-1.jpg)[![Termite - comparison of term frequency vs. saliency rankings for topics](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-2-term-frequency-vs-saliency-comparison-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstermite-2-term-frequency-vs-saliency-comparison.jpg)[![Termite - comparison of term frequency vs. seriation rankings for topics](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/termite-2-term-frequency-vs-seriation-comparison-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstermite-2-term-frequency-vs-seriation-comparison.jpg)
 
 ***
 
@@ -265,7 +265,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![Tiara](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tiara-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940498/tiara.jpg)
+[![Tiara](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tiara-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstiara.jpg)
 
 ***
 
@@ -282,7 +282,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ## Screen Shots
 
-[![TOM](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tom-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940504/tom.jpg)
+[![TOM](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tom-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstom.jpg)
 
 ***
 
@@ -290,7 +290,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 * **Description**:
   * NEH Digital Humanities Start-up Grant Proposal (2013): Lauren Klein, Principal Investigator, ["TOME: Interactive TOpic Model and MEtadata Visualization"](http://www.neh.gov/files/grants/georgiatech_interactive_topic_and_metadata_visualization.pdf)
-  * NEH Digital Humanities Start-up Grant White Paper (Final Report), [TOMEwhitepaper.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104296913/TOMEwhitepaper.pdf)
+  * NEH Digital Humanities Start-up Grant White Paper (Final Report), [TOMEwhitepaper.pdf](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetsTOMEwhitepaper.pdf)
   * See also the related publication: Eisenstein, J., I. Sun and L. Klein. “[Exploratory Text Analysis for Large Document Archives](http://dharchive.org/paper/DH2014/Paper-921.xml).’ _Digital Humanities 2014_.
 * **Topic modeling workflow**:
   * Takes input from Mallet.
@@ -314,7 +314,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ## Screen Shots
 
-[![TOME "Trail of Dust" view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tome-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940510/tome-1.jpg)[![TOME "Multimodal" and Timeline View](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tome-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940516/tome-2.jpg)
+[![TOME "Trail of Dust" view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tome-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstome-1.jpg)[![TOME "Multimodal" and Timeline View](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/tome-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstome-2.jpg)
 
 ***
 
@@ -336,7 +336,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![Topic Browser - overall topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-browser-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940522/topic-browser-1.jpg)[![Topic Browser - plot over attributes view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-browser-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940528/topic-browser-2.jpg)
+[![Topic Browser - overall topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-browser-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopic-browser-1.jpg)[![Topic Browser - plot over attributes view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-browser-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopic-browser-2.jpg)
 
 ***
 
@@ -357,7 +357,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![Topical Guide - topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-1-topic-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104952996/topical-guide-1-topic-view.jpg) [![Topical Guide - document view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-2-document-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104953002/topical-guide-2-document-view.jpg)[![Topical Guide - 2D plots  visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-3-viz-2d-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104953008/topical-guide-3-viz-2d-view.jpg)[![Topical Guide - "chord" diagram visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-4-viz-chord-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104953014/topical-guide-4-viz-chord-view.jpg)[![Topical Guide - "topics over time" visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-5-viz-topics-over-time-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104953020/topical-guide-5-viz-topics-over-time-view.jpg)
+[![Topical Guide - topic view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-1-topic-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopical-guide-1-topic-view.jpg) [![Topical Guide - document view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-2-document-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopical-guide-2-document-view.jpg)[![Topical Guide - 2D plots  visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-3-viz-2d-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopical-guide-3-viz-2d-view.jpg)[![Topical Guide - "chord" diagram visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-4-viz-chord-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopical-guide-4-viz-chord-view.jpg)[![Topical Guide - "topics over time" visualization view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topical-guide-5-viz-topics-over-time-view-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopical-guide-5-viz-topics-over-time-view.jpg)
 
 ## <a name="topic-nets">TopicNets</a>
 
@@ -378,7 +378,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![TopicNets](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-nets-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940537/topic-nets-1.jpg)[![TopicNets - topic similarity view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-nets-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/104940543/topic-nets-2.jpg)
+[![TopicNets](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-nets-1-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopic-nets-1.jpg)[![TopicNets - topic similarity view](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/topic-nets-2-th.jpg)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstopic-nets-2.jpg)
 
 ***
 
@@ -403,7 +403,7 @@ _Note: Parts of the descriptions and screenshots in the mini-report on Serendip 
 
 ### Screen Shots
 
-[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-1-bullseye-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/106441998/twic-1-bullseye.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-2-rectangle-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/106442004/twic-2-rectangle.png) [![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-3-corpus-cluster-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/106442010/twic-3-corpus-cluster.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-4-text-cluster-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/106442016/twic-4-text-cluster.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-5-individual-text-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/w/file/fetch/106442022/twic-5-individual-text.png)
+[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-1-bullseye-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstwic-1-bullseye.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-2-rectangle-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstwic-2-rectangle.png) [![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-3-corpus-cluster-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstwic-3-corpus-cluster.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-4-text-cluster-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstwic-4-text-cluster.png)[![](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assets/twic-5-individual-text-th.png)](https://github.com/whatevery1says/dev_resources/report-on-topic-modeling-interfaces/assetstwic-5-individual-text.png)
 
 ***
 
