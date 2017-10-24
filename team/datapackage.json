@@ -1,0 +1,11 @@
+{
+  "name": "a-unique-human-readable-and-url-usable-identifier",
+  "title": "A nice title",
+  "resources": [{
+      "path": "relative-path-to-file", // e.g. report1.md
+    },{
+      "path": "relative-path-to-asset-file", // e.g. assets/image.png
+    },{
+      "path": "relative-path-to-other-version-file", // e.g. pdf/report1.pdf
+    }]
+}
