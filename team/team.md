@@ -21,7 +21,7 @@
 - [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)
 - [Tarika Sankar](http://www.as.miami.edu/english/graduate/current-phd-students/#Tarika) (English, U. Miami)
 - [Annie Schmalstig](http://www.as.miami.edu/english/graduate/current-phd-students/#Anne) (English, U. Miami)
-- [Research Assistants during academic year 2017-2018 TBD]
+- [Research Assistants at UCSB during academic year 2017-2018 TBD]
 
 ---
 
@@ -38,7 +38,7 @@
 - [Sydney Lane](https://www.english.ucsb.edu/people/lane-sarah-sydney) (English, UCSB)
 - [Ryan Leach](http://www.english.ucsb.edu/people/leach-ryan) (English, UCSB)
 - [Patrick Mooney](http://patrickbrianmooney.nfshost.com/~patrick/ta/) (English, UCSB)
-- [Giogina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
+- [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
 - Nathalie Popa (Education, McGill U.)
 - [Teddy Roland](https://teddyroland.com/about/) (English, UCSB)
 - [Jamal Russell](https://www.english.ucsb.edu/people/russell-jamal) (English, UCSB)
