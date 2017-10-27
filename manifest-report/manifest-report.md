@@ -2,7 +2,7 @@
 
 This document constitutes something like a report on the current state of the Manifest System and where it needs to go.
 
-** Last Update: Oct 27, 2017**
+**Last Update: Oct 27, 2017**
 
 ## Road Map
 
