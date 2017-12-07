@@ -1,5 +1,3 @@
-## The following are members of the 4Humanities &quot;WhatEvery1Says&quot; project team
-
 ### WE1S Directors
 
 - [Alan Liu](http://liu.english.ucsb.edu/), Principal Investigator (Professor, English Dept., UCSB)
@@ -19,11 +17,18 @@
 ### WE1S Graduate Student
 
 - [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)
+- [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, U. Miami)
+- Sandra Fernandez (English, CSUN)
+- [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB)
+- [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
+- [Aili Pettersson Peeker](http://www.english.ucsb.edu/people/pettersson-peeker-aili) (English, UCSB)
+- [Jamal Russell](https://www.english.ucsb.edu/people/russell-jamal) (English, UCSB)
 - [Tarika Sankar](http://www.as.miami.edu/english/graduate/current-phd-students/#Tarika) (English, U. Miami)
 - [Annie Schmalstig](http://www.as.miami.edu/english/graduate/current-phd-students/#Anne) (English, U. Miami)
-- [Research Assistants at UCSB during academic year 2017-2018 TBD]
+- [Tyler Shoemaker](http://www.english.ucsb.edu/people/shoemaker-tyler) (English, UCSB)
+- [Xiuhe Zhang](http://www.filmandmedia.ucsb.edu/people/grads/zhang/zhang.html) (Film/Media Studies, UCSB)
 
----
+ ---
 
 ### Former Graduate Student participants
 
@@ -38,10 +43,8 @@
 - [Sydney Lane](https://www.english.ucsb.edu/people/lane-sarah-sydney) (English, UCSB)
 - [Ryan Leach](http://www.english.ucsb.edu/people/leach-ryan) (English, UCSB)
 - [Patrick Mooney](http://patrickbrianmooney.nfshost.com/~patrick/ta/) (English, UCSB)
-- [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
 - Nathalie Popa (Education, McGill U.)
 - [Teddy Roland](https://teddyroland.com/about/) (English, UCSB)
-- [Jamal Russell](https://www.english.ucsb.edu/people/russell-jamal) (English, UCSB)
 - [Fowzia Sharmeen](http://fowziasharmeen.weebly.com/about.html) (English, CSUN)
 - [Christopher Walker](https://www.english.ucsb.edu/people/walker-christopher) (English, UCSB)
 
@@ -56,3 +59,5 @@
 ---
 
 ### Also see: Advisory Board [TBD]
+
+(Last updated: 11 Nov. 2017)
