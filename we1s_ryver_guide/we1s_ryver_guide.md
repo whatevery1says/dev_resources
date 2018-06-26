@@ -1,4 +1,4 @@
-**WE1S Ryver Guide**
+(created by Giorgina Paiella, June 2018; last rev. 26 June 2018)
 
 - Ryver works on a web browser, and there&#39;s also a [Ryver mobile app](https://ryver.com/downloads/) available.
 
