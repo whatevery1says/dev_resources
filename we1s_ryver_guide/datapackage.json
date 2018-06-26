@@ -1,0 +1,9 @@
+{}{
+  "name": "we1s_ryver_gude",
+  "title": "WE1S Ryver Guide",
+  "resources": [{
+      "path": "we1s_ryver_guide.md",
+    },{
+      "path": "assets/word/we1s_ryver_guide.docx",
+    },]
+}
