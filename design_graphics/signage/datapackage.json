@@ -1,0 +1,12 @@
+{
+  "name": "signage",
+  "title": "Signage",
+  "resources": [{
+      "path": "readme.md",
+    },{
+      "path": "assets/pdf/we1s_sign.pdf",
+      "path": "assets/pdf/we1s_summer_research_camp_sign.pdf",
+      "path": "assets/pdf//lowres/we1s_sign.pdf",
+      "path": "assets/pdf/lowres/we1s_summer_research_camp_sign.pdf",
+    },]
+}
