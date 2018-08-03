@@ -25,7 +25,7 @@ All of our data is in the `data` folder. If you click on that, you will see a fo
 
 The zip files from LexisNexis are organized by query, and the filenames include the source, keyword searched, and the year requested. Usually, people have requested data in 1-year increments. For each query, there are 2 zip files: one including the phrase `no-exact-match` and one without it. This is related to how we collect data from LexisNexis; most of the time, you will want to only use the exact match zip files in your modeling (so, those zip files WITHOUT the phrase `no-exact-match` in their filenames).
 
-We also have some data that has been scraped from various online news websites on our server. This data is located in `data` > `data-old` >`am-team-5-webscraped-data`. It is also stored as a series of zipped folders containing json files.
+We also have some data that has been scraped from various online news websites on our server. This data is located in `data` > `data-scraped`. It is also stored as a series of zipped folders containing json files.
 
 ## Take the notebooks for a spin
 ### A. Generate a new project
