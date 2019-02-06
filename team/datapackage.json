@@ -1,9 +1,0 @@
-{
-  "name": "we1s-team",
-  "title": "WE1S Team",
-  "resources": [{
-      "path": "team.md",
-    },{
-      "path": "assets/word/team.docx",
-    },]
-}
